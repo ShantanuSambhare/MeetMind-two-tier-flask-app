@@ -2,7 +2,7 @@
 
 ![Architecture Diagram](https://img.shields.io/badge/Architecture-Three%20Tier-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ## 📋 Project Overview
 
